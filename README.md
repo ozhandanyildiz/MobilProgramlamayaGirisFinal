@@ -7,4 +7,7 @@
 ### Supervisor
 - Keyvan Arasteh - https://github.com/keyvanarasteh
 
+## Projenin Amacı
+### İnsanların güncel ve kaliteli filmlere ulaşabileceği sevdiği türleri işaretleyerek karşısına çıkacak film türlerini belirlediği bir film uygulaması.
+
 
