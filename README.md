@@ -1,11 +1,11 @@
 # Mobil Programlamaya Giriş 
-# MobilProgramlamayaGirisFinal
-# OzhanTV
+## MobilProgramlamayaGirisFinal
+## OzhanTV
 
-## Takım Üyeleri
+### Takım Üyeleri
 - 221216063 Özhan Danyıldız
 
-## Supervisor
+### Supervisor
 - Keyvan Arasteh - https://github.com/keyvanarasteh
 
 
