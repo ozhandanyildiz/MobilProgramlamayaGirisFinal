@@ -1,5 +1,4 @@
 # Mobil Programlamaya Giriş 
-## MobilProgramlamayaGirisFinal
 ## OzhanTV
 
 ### Takım Üyeleri
